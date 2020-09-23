@@ -1,0 +1,21 @@
+LIBRARY fx
+DESCRIPTION This is the Description
+
+EXPORTS
+		fxAlphaBlend				@1
+		fxAmbientLight				@2
+		fxAntiAlias					@3
+		fxBitBlt					@4
+		fxBlur						@5
+		fxBrightness				@6
+		fxFilter					@7
+		fxGamma						@8
+		fxGetBlue					@9
+		fxGetGreen					@10
+		fxGetRed					@11
+		fxReplaceColor				@12
+		fxRGB						@13
+		fxScanlines					@14
+		fxShadeColors				@15
+		fxStretchBlt				@16
+		fxTransparentBlt			@17

@@ -1,0 +1,96 @@
+
+
+
+ Thank You for downloading FX.DLL 1.02 SDK!
+
+ This SDK (Software Developer's Kit) will provide
+ You with all neccessary knowledge base on how to use 
+ FX.DLL with most efficiency.
+ I have included not only full description on each
+ of the FX.DLL functions, but also a sample project
+ and early FX library source-code :)
+
+ You can vote for the submission at
+ http://www.planet-source-code.com/vb
+
+
+--------------------------------------------------------
+ Setup
+--------------------------------------------------------
+
+ To setup FX.DLL 1.02 SDK simply run SETUP.BAS batch
+ program. It will copy following files:
+ 1) "dll.fx" to "Release\fx.dll"
+ 2) "dll.fx" to "Samples\Demo\fx.dll"
+
+ Setup program will not copy FX.DLL to System directory.
+
+ If You are afraid that SETUP.BAS file contains 
+ hazardous script, You can copy the files manually or
+ open the SETUP.BAS with text editor and get sure that
+ script is 100% safe :)
+
+
+--------------------------------------------------------
+ FX Technology
+--------------------------------------------------------
+
+ I started developing FX.DLL in November 2002 so its
+ about 6 months of pure development, programming,
+ testing and debugging.
+ This is second release of my FX.DLL. The previous
+ release was my most successful work so far. But
+ I hope this release will be more appreciated by 
+ developers.
+ I have written it with Microsoft Visual C++ 6.0 and 
+ the DLL is running in Win32 subsystem. This means that
+ it has no dependencies and is compatible with all
+ Windows platforms.
+ Currently the library source-code has 5600 (!!!) lines
+ of code, all of them written from zero in 6 months.
+ The DLL is written specially for developers 
+ working within Visual Basic.
+ If we compare the speed of FX library with similar
+ code written in Visual Basic You will notice that 
+ FX.DLL may even be 20x (!!!) faster. 
+ Expierience the FX technology.
+
+
+--------------------------------------------------------
+ What's new?
+--------------------------------------------------------
+
+ The new version 1.02 has very many optimizations,
+ add-ins and new features. It has 4 new effects
+ (emboss, engrave, mosaic, tone), now supports
+ bitmap manipulation (rotation, zoom) and has got 
+ great light rendering function, with 4 flags :)
+ Also, now FX library stretches all bitmaps in 
+ HALFTONE mode (the old version was doing COLORONCOLOR),
+ which now means that compressed bitmaps will look 
+ smooth without anti-aliasing. Check out all new
+ features in SDK documentation!
+
+
+--------------------------------------------------------
+ SDK
+--------------------------------------------------------
+
+ If You downloaded the previous submission You noticed
+ that the SDK was executable. Some of users was afraid
+ that this SDK could be a malicious program, so I
+ decided to include the VB source-code of this SDK.
+
+ 
+--------------------------------------------------------
+ Sample Projects
+--------------------------------------------------------
+
+ I added a great sample project to this submission. It
+ shows some abilities of the FX library.
+ But with the new special function You will be able to
+ create more great games, graphics etc.
+ 
+ 
+ 
+  

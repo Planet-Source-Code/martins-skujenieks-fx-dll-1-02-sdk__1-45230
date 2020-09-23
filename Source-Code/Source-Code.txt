@@ -1,0 +1,31 @@
+----
+FX.DLL Version 0.16 Source-Code
+Copyright © Martins Skujenieks 2003
+
+
+----
+Because many people on Planet-Source-Code 
+(PSC) asked me to share source-code of the
+FX library, I included it in this submission.
+This is source-code of early FX library
+(build Jan-19-2003; version 0.16 alpha).
+Most of functions has changed a lot to 
+version 1.02 release, but the coding base is
+still the same.
+And what is the most important, this code can
+help you to learn how to create DLL's in C++
+for use with Visual Basic!!
+
+
+----
+To view source-code, start Microsoft Visual C++ 6.0,
+click File menu, point to Open Workspace and click
+once again. Browse for the FX.DSW (workspace) file
+and open it.
+
+You will notice that this early version already has
+1400 lines of code and only 18 functions. Imagine
+the current FX.DLL 1.02 version with 5400 lines of
+code :)
+
+Please vote for my 6 month work!!!
